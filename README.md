@@ -1,2 +1,6 @@
 # Ai-Startups
-Collection of links for interesting AI startups
+
+List of AI startups:
+
+
+<a href="https://daily.co">TryDaily</a> 
